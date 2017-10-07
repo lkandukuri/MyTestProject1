@@ -1,2 +1,4 @@
-# MyTestProject1
+# Practice_Projects
+
+Basic Client-Server implementation.
 
